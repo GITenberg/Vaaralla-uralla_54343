@@ -1,0 +1,25 @@
+_repo: Vaaralla-uralla_54343
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kianto, Ilmari
+    alias: Calamnius, Ilmari
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '44960'
+    url: http://www.gutenberg.org/2009/agents/44960
+description: ''
+gutenberg_issued: '2017-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54343'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 19th century'
+- GITenberg
+title: Väärällä uralla
+url: http://www.gutenberg.org/ebooks/54343
